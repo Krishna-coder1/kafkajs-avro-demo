@@ -22,7 +22,7 @@ This Node.js application demonstrates how to produce Avro-encoded messages to a 
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/Krishna-coder1/kafkajs-avro-demo.git
     cd kafka-node-avro-example
     ```
 
