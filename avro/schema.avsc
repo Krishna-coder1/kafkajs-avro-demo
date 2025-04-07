@@ -1,0 +1,16 @@
+{
+  "name": "User",
+  "type": "record",
+  "namespace": "com.confluent",
+  "doc": "Kafka JS example schema",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "email",
+      "type": "string"
+    }
+  ]
+}
